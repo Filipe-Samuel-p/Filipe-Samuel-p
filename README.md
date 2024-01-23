@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filipe Samuel
-- 👀 I’m interested in Data engineer, machile learning and software engineer
+- 👀 I’m interested in Data engineering, machile learning and software engineering
 - 🌱 I’m currently learning data science with python language 
 - 📫 How to reach me: felipepires.p125@gmail.com
 - ⚡ Fun fact: I'm addicted to pizza
