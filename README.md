@@ -2,10 +2,11 @@
  import Developer from Filipe-Samuel-P
 
  Languages = ["python", "C" , "Java"]
- Leaning = ["Elixir", "R", "Javascript]
+ Learning = ["Elixir", "R", "Javascript"]
  Projects = ["Research project: Improving the lives of artisanal fishermen with data science",
              "Snake Game with Turtle",
-             "LeetCode Solution"]
+             "LeetCode Solution",
+             "Member of "soulcode": Junior software company"]
 
  About_me = {
              hobbies: ["Violin", "programming languages", "GYM", "football"],
