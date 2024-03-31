@@ -10,7 +10,7 @@
 
  About_me = {
              hobbies: ["Violin", "programming languages", "GYM", "football"],
-             technology: ["university research", "Data Science, "Machine Learning", "Software engineering"]
+             technology: ["university research", "Data Science", "Machine Learning", "Software engineering"]
             } 
  ```
 
