@@ -1,8 +1,8 @@
  ``` python
  import Developer from Filipe-Samuel-P
 
- Languages = ["python", "C" , "Java"]
- Learning = ["Elixir", "R", "Javascript"]
+ Languages = ["python", "C" , "Java", "Elixir (basic)"]
+ Learning = ["R", "Golang"]
  Projects = ["Research project: Improving the lives of artisanal fishermen with data science",
              "Snake Game with Turtle",
              "LeetCode Solution",
