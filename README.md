@@ -1,5 +1,5 @@
  ``` python
- import Developer from Filipe-Samuel-P
+ import Filipe-Samuel-P from Developer
 
  Languages = ["python", "C" , "Java", "Elixir"]
  Learning = ["Swift"]
