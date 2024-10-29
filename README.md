@@ -2,7 +2,7 @@
  import Filipe-Samuel-P from Developer
 
  Languages = ["python", "C" , "Java", "Elixir"]
- Learning = ["Swift"]
+ Learning = ["Golang"]
  Projects = ["Research project: Improving the lives of artisanal fishermen with data science",
              "Snake Game with Turtle",
              "LeetCode Solution",
