@@ -4,7 +4,7 @@
  Languages = ["python", "C" , "Java", "Elixir"]
  Learning = ["Golang"]
  Projects = ["Research project: Improving the lives of artisanal fishermen with data science",
-             "Snake Game with Turtle",
+             "SCTI",
              "LeetCode Solution",
              "Member of "soulcode": Junior software company"]
 
