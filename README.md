@@ -2,10 +2,7 @@
 
 ## Bachelor's in Computer Science  
 - Bachelor's degree in Computer Science from Universidade Estadual do Norte Fluminense (UENF), with a strong interest in software development and data science/machine learning.  
-- Currently working as a software development intern at Globo, contributing to innovative projects in the media and technology sectors.  
-- Back-end developer and Back-end manager at SoulCode, a junior enterprise focused on delivering high-quality software solutions.  
-- Previous experience in scientific research for the Pescarte project, analyzing data to support sustainable fisheries management using Python.  
-- Former Director of Strategy and Projects at ENACTUS, a student organization driving social entrepreneurship initiatives.  
+- I currently work as a Java developer and have previous experience as a data scientist, leveraging Python to solve complex data challenges.   
 
 ## Contact  
 <section>  
@@ -35,7 +32,7 @@
 - Former Director of Strategy and Projects at ENACTUS, leading social entrepreneurship initiatives to improve communities.  
 
 <div align="center">  
-    <img src=".\assets\coffee-lover-hot-coffee.gif" alt="Little Coffee" width="150px"/>  
+    <img src=".\assents\coffee-lover-hot-coffee.gif" alt="Little Coffee" width="150px"/>  
 </div>  
 
 
