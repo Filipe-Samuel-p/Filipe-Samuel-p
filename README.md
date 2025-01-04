@@ -1,8 +1,7 @@
-# Filipe Samuel Pires  
 
 ## Bachelor's in Computer Science  
 - Bachelor's degree in Computer Science from Universidade Estadual do Norte Fluminense (UENF), with a strong interest in software development and data science/machine learning.  
-- I currently work as a Java developer and have previous experience as a data scientist, leveraging Python to solve complex data challenges.   
+- Currently a software development intern at Globo, involved in cutting-edge projects using modern development practices. Additionally, I have experience as a Java developer and as a data scientist, where I utilized Python to solve complex data challenges.  
 
 ## Contact  
 <section>  
@@ -27,8 +26,7 @@
 
 ## Additional Information  
 - Scientific initiation in data science as part of the Pescarte project, focusing on data analysis for sustainable fisheries management.  
-- Back-end developer and manager at SoulCode, responsible for leading development teams in creating scalable software.  
-- Currently a software development intern at Globo, involved in cutting-edge projects using modern development practices.  
+- Back-end developer and manager at SoulCode, responsible for leading development teams in creating scalable software.   
 - Former Director of Strategy and Projects at ENACTUS, leading social entrepreneurship initiatives to improve communities.  
 
 <div align="center">  
