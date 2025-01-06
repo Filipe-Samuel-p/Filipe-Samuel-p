@@ -25,7 +25,7 @@
 </section>  
 
 ## Additional Information  
-- Scientific initiation in data science as part of the Pescarte project, focusing on data analysis for sustainable fisheries management.  
+- Scientific initiation in data science as part of the @[Pescarte](https://pescarte.org.br/) project, focusing on data analysis for sustainable fisheries management.  
 - Back-end developer and manager at SoulCode, responsible for leading development teams in creating scalable software.   
 - Former Director of Strategy and Projects at ENACTUS, leading social entrepreneurship initiatives to improve communities.  
 
