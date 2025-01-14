@@ -1,8 +1,8 @@
 
 ## Bachelor's in Computer Science  
-- Bachelor's degree in Computer Science from Universidade Estadual do Norte Fluminense (UENF), with a strong interest in software development and data science/machine learning.  
-- Currently a software development intern at [Globo](https://www.globo.com/) involved in cutting-edge projects using modern development practices. Additionally, I have experience as a Java developer and as a data scientist, where I utilized Python to solve complex data challenges.  
-
+- Bachelor's degree in Computer Science from Universidade Estadual do Norte Fluminense (UENF)
+- Currently a software development intern at [Globo](https://www.globo.com/)
+  
 ## Contact  
 <section>  
     <a href="https://www.linkedin.com/in/filipe-samuel-pires-b8b40126b/" target="_blank" style="text-decoration:none">  
