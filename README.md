@@ -10,19 +10,13 @@
     </a>  
 </section>  
 
-## Qualifications  
+## Skills  
 
-### Skills  
-<section>  
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>  
-    <img height="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C"/>  
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>  
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>  
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP"/>  
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>  
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>  
-    <img height="40" src="https://logowik.com/content/uploads/images/mac-os.jpg" alt="Mac OS"/>  
-</section>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,html,css,postgresql,mysql,mongodb,docker,apple" />
+  </a>
+</p>
 
 ## Additional Information  
 - Scientific initiation in data science as part of the [Pescarte](https://pescarte.org.br/) project, focusing on data analysis for sustainable fisheries management.  
